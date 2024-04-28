@@ -10,4 +10,4 @@ React: The project is built using React, a popular JavaScript library for buildi
 API Integration: Movie data is fetched from a third-party API to provide up-to-date information.
 State Management: React's state management is used to handle user interactions and maintain the application's state.
 
-Hosted at: https://movie-app-3a9f5.web.app
+Hosted at: 
